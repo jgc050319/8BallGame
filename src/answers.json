@@ -1,0 +1,23 @@
+
+[
+    { "msg": "It is certain.", "color": "green" },
+    { "msg": "It is so.", "color": "green" },
+    { "msg": "Yes, but only if you believe in unicorns", "color": "green" },
+    { "msg": "Absolutely, just don't ask how.", "color": "green" },
+    { "msg": "That sounds amazing.", "color": "green" },
+    { "msg": "As I see it, yes.", "color": "green" },
+    { "msg": "Most likely.", "color": "green" },
+    { "msg": "Sure, why not? Life is a mystery.", "color": "green" },
+    { "msg": "Yes.", "color": "green" },
+    { "msg": "Signs point to yes.", "color": "green"},
+    { "msg": "Please shake again.", "color": "black" },
+    { "msg": "I have a headache. Ask again later.", "color": "black" },
+    { "msg": "Don't know. Don't care.", "color": "black" },
+    { "msg": "I didn't catch that, speak louder and shake me again.", "color": "black" },
+    { "msg": "Ask again after your next cup of coffee", "color": "black" },
+    { "msg": "Don't count on it.", "color": "red" },
+    { "msg": "That sounds awful.", "color": "red" },
+    { "msg": "Meh.", "color": "red" },
+    { "msg": "In your dreams... literally.", "color": "red" },
+    { "msg": "Don't do it.", "color": "red" }
+  ]
